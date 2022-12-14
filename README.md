@@ -1,7 +1,7 @@
 
 <div align="center">
   
-![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Hello!%20I'm%20Seoyeon%20Son%20:D&fontSize=40&animation=twinkling)
+![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Hello!%20I'm%20Seoyeon%20Son%20:D&fontSize=40&animation=twinkling&height=150)
 
 
 ## 👋🏻 About Me
