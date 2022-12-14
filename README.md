@@ -22,6 +22,6 @@
 
 ## 🐣 GitHub Stats :
 
-![flag-india](https://github-readme-stats.vercel.app/api?username=seoyeonson&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=flag-india)
+![gruvbox](https://github-readme-stats.vercel.app/api?username=seoyeonson&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeonson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
