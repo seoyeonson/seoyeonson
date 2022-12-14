@@ -3,9 +3,10 @@
   
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Hello!%20I'm%20Seoyeon%20Son%20:D&fontSize=40&animation=twinkling&height=150)
 </br></br>
+
+## 👋🏻 About Me
 안녕하세요, 프로그램을 디자인하는 손서연입니다!</br>
 효율적이고 더 나은 코드를 지향하는 백엔드 개발자입니다.
-
 </br></br>
 
 ## 💻 Tech Stack
