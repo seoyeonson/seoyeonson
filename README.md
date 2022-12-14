@@ -1,3 +1,5 @@
+![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=안녕하세요,%20프로그램을%20디자인하는%20손서연입니다%20:D&fontSize=40&animation=twinkling&reversal=false)
+
 # 👩‍💻 About Me
 안녕하세요, 프로그램을 디자인하는 손서연입니다.
 
