@@ -1,9 +1,3 @@
-
-<div align="center">
-  
-![MacBook Air - 1 (1)](https://user-images.githubusercontent.com/93702730/217488071-33e3bcc8-d7a8-4c08-b87a-2657b5ea45c5.png)
-</br></br>
-
 ### About Me
 안녕하세요, 프로그램을 디자인하는 손서연입니다.</br>
 효율적이고 더 나은 코드를 지향하는 백엔드 개발자입니다.
