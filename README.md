@@ -21,8 +21,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 </br></br>
 
-### GitHub Stats :
-
 ![gruvbox](https://github-readme-stats.vercel.app/api?username=seoyeonson&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeonson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
